@@ -1,0 +1,20 @@
+  button {
+            margin-left: 10px;
+        }
+        .email{
+            margin-bottom: 20px;
+        }
+        #password{
+            margin-bottom: 30px;
+        }
+        .typeshi{
+            background-color: aqua;
+            display: flex;
+            flex-direction: column;
+            border-width: 300px;
+        }
+        #idk{
+            display: flex;
+            flex-direction: row;
+        }
+    

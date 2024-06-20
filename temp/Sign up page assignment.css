@@ -1,0 +1,52 @@
+div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
+    background-color: rgb(35,43,85,0.75);
+    border-radius: 20px;
+}
+.txtbox{
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 35px;
+    width: 80%;
+    font-family: sans-serif;
+    color: rgba(246, 247, 249, 0.155) ;
+    font-size: large;
+    font-weight: 300;
+}
+.Field{
+    margin-left: 12%;
+    font-family: sans-serif;
+    color: rgb(246, 247, 249, 0.8) ;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+h1{
+    margin-left: 38%;
+    font-family: sans-serif;
+    color: rgb(246, 247, 249, 0.8) ;
+    font-size: xx-large;
+}
+a{
+    margin-left: 12%;
+    color: aqua;
+    font-size: large;
+}
+button{
+    height: 40px;
+    margin-left: 11%;
+    margin-right: 40px;
+    border-radius: 20px;
+    width: 80%;
+    background-color:rgba(41, 50, 95, 0.75);
+    margin-bottom: 40px;
+    font-size: large;
+    color: aliceblue;
+}
+:root{
+    background-color: rgb(41, 65, 89);
+}

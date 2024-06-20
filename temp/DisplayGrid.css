@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+div{
+    background-color: aquamarine;
+    display: grid;
+    grid-template-rows: 100px 100px;
+    grid-template-columns: 100px 100px;
+    flex-direction: column;
+}
+.input{
+   display:flex;
+   flex-direction: column;
+   grid-template-rows: 100px 100px;
+}
+.rah{
+    font-size: xx-small;
+    display: flex;
+    flex-direction: column;
+}
